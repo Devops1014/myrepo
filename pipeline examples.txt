@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage ("code") {
             steps {
-                echo "Welcome to My first pipeline type job"
+                echo "Welcome to My 1st first pipeline type job"
             }
         }
     }
